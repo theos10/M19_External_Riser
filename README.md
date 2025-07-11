@@ -4,7 +4,7 @@ External Riser for Olivetti M19
 ## Introduction
 
 ![Olivetti M19 External Riser - PCB Top](images/M19_Ext_Riser_TOP.png)
-![Olivetti M19 External Riser - PCB Bottom](images/BOTTOM.png)
+![Olivetti M19 External Riser - PCB Bottom](images/M19_Ext_Riser_BOTTOM.png)
 
 
 ## Specifications
