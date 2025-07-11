@@ -12,6 +12,7 @@ External Riser for Olivetti M19
 * 3 Slots
   * Note: Allows you to add 2 cards horizontally 
   * Example: XTIDE, 8bitd Ethernet Card , EMS Memory Card
+* Power connector for external PSU or PicoPSU
 
 ## Hardware Documentation
 **Attention** Pay attention to the insertion direction; the arrow indicates the back of the PC.
@@ -27,6 +28,7 @@ External Riser for Olivetti M19
 
 * Clean the PCB with alcohol
 * Solder j1 - j3 Connector
+* Solder Power Connector
 * Solder C1 - C6 Electrolytics capacitors
 * Clean the remaining flux with alcohol
 
@@ -38,7 +40,7 @@ Component type     | Reference | Description                           | Quantit
 PCB                |           | Riser PCB V1.0                        | 1        | Order from a PCB manufacturer of your choice using provided Gerber or KiCad files
 BUS Connector 62p  | J1 - J3   | Connecteur de carte de bord, 62p      | 1        | https://fr.aliexpress.com/item/1005003647067417.html?spm=a2g0o.order_list.order_list_main.59.47d55e5bEbYVkg&gatewayAdapt=glo2fra
 Capacitor          | C1 - C6   | 100µF / 25v Electrolytic Capacitor    | 4        | 
-
+Power Connector    | J4        | ATX 4.2mm 20 or 24 pin mâle connector | 1        | https://fr.aliexpress.com/i/32854035770.html?gatewayAdapt=glo2fra
 
 
 ### Licensing
