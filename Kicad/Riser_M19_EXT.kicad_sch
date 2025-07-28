@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "External Rise for Olivetti M19")
-		(date "2025-07-11")
-		(rev "1.1")
+		(date "2025-07-28")
+		(rev "1.2")
 		(company "FOURNIER Ghislain (2025)")
 	)
 	(lib_symbols
